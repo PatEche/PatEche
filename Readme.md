@@ -20,7 +20,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,go,py,js,nodejs,postgres,mongo,mysql,git,github,githubactions,gitlab,docker,kubernetes,aws,postman,grafana,graphql,eclipse,vscode,bash,linux&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,spring,go,py,js,typescript,nodejs,postgres,mongo,mysql,git,github,githubactions,gitlab,docker,kubernetes,aws,postman,grafana,graphql,eclipse,vscode,bash,linux&perline=9" />
 </p>
 
 ---
