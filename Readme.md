@@ -1,62 +1,45 @@
-<h1 align="center">Hola 👋  soy Patricio Echeverria </h1> 
+<h1 align="center">Hi there 👋, I'm Patricio Echeverria</h1>
 
+<p align="center">
+  🚀 Java Backend Developer | Cloud & DevOps Enthusiast | Passionate about Clean Code & Scalable Systems
+</p>
 
-<br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
+---
 
-<p align="left">
-🎓 ANALISTA UNIVERSITARIO EN SISTEMAS DE COMPUTACIÓN.
+### 📌 About Me
 
-📝 ESTUDIANTE DE LICENCIATURA EN INFORMÁTICA.
+🎓 Graduate in Computer Systems Analysis  
+🎓 Currently in the final year of a Bachelor's Degree in Computer Science  
+💻 Passionate about backend development, clean architecture, and microservices  
+🌐 Constantly learning and building real-world projects with modern technologies
 
-📫 Contacto: **echeverriaple@gmail.com**
-<!--Intro end-->
-  </p>
-<br>
+📫 Reach me at: **echeverriaple@gmail.com**
 
-<h2 >Tech Stack👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,go,py,js,nodejs,postgres,mongo,mysql,git,github,githubactions,gitlab,docker,kubernetes,aws,postman,grafana,graphql,eclipse,vscode,bash,linux&perline=12" />
-   
-    
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,go,py,js,nodejs,postgres,mongo,mysql,git,github,githubactions,gitlab,docker,kubernetes,aws,postman,grafana,graphql,eclipse,vscode,bash,linux&perline=9" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/patricio-luis-echeverria" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:echeverriaple@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
-<br>
-<!-------------------------->
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+---
 
-<!--icons and links-->
+<!-- ### 📈 Visitor Count
+
 <p align="center">
-<a href="https://www.linkedin.com/in/patricio-luis-echeverria" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&perline=2" />
-</a>
-    <a href="mailto:echeverriaple@gmail.com" target="blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />   
-  </a>  
-</p>
-
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
-
-
-
-
-
-</p>        
-<!--- stats (end) -->
+  <img src="https://visitcount.itsvg.in/api?id=PatEche&icon=3&color=6" alt="Visitor Count"/>
+</p> -->
