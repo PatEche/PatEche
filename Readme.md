@@ -25,6 +25,19 @@
 
 ---
 
+### 📚 Favorite Books
+
+- **Designing Data-Intensive Applications** by Martin Kleppmann  
+  *Comprehensive guide on building scalable, reliable, and maintainable systems.*
+
+- **Clean Code** by Robert C. Martin  
+  *A must-read for writing maintainable and readable code.*
+
+- **The Pragmatic Programmer** by Andrew Hunt & David Thomas  
+  *Practical advice to become a more effective developer.*
+
+---
+
 ### 🤝 Connect With Me
 
 <p align="center">
