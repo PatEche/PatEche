@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Patricio Echeverria</h1>
 
 <p align="center">
-  🚀 Java Backend Developer | Cloud & DevOps Enthusiast | Passionate about Clean Code & Scalable Systems
+  🚀 Java Software Engineer | Cloud & DevOps Enthusiast | Passionate about Clean Code & Scalable Systems
 </p>
 
 ---
